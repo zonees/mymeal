@@ -2,8 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
   "/produk": "pages/produk.js",
-  "/kontak": "pages/kontak.js",
-  "/testimoni": "pages/testimoni.js"
+  "/": "pages/index.js",
+  "/kontak": "pages/kontak.js"
 }
